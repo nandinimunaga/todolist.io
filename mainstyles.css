@@ -1,0 +1,48 @@
+
+.container{
+    background-color: rgba(134, 26, 176, 0.782);
+   text-align: center;
+   height: 80px;
+   padding-top: 20px;
+   font-weight: 500;
+   font-family: calc();
+   font-size: xx-large;
+   color: white;
+   margin-bottom: 20PX;
+   
+}
+input{
+    width: 1140px;
+    height: 80px;
+    border-color:black;
+   
+}
+input:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.select{
+    margin-left: 350px;
+}
+.black-color {
+    background-color:black;
+}
+
+.green-color {
+    background-color:green;
+}
+.custom-textbox {
+    width: 1150px;
+    height: 80px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 30px;
+    margin-left:260px;
+    margin-bottom: 20px;
+}
+
+.close-button {
+    cursor: pointer;
+    font-size: 30px;
+    margin-left: 5px;
+}
